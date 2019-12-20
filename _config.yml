@@ -21,11 +21,8 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Posts:
-    - ML: ""
-    - Paper: ""
-    - Dev Env: "http://deanattali.com/beautiful-jekyll/"
-  Tag:
+  Posts: "index/"
+  Tag: "tags/"
   Search: "search/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -119,7 +116,7 @@ url-pretty: "hongiee2.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "Hongiee2"
+disqus: "KIHONG KIM"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
