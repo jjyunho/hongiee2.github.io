@@ -21,7 +21,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Posts: "index/"
+  Posts: "https://hongiee2.github.io"
   Tag: "tags/"
   Search: "search/"
 
