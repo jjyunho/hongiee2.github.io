@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Love The Way You Are
+subtitle: Machine Learning / Creative Coding
 ---
 
-My name is KIHONG KIM. I have the following qualities:
+Hi, My name is Hongiee Kihong Kim. You can call me *Hongiee*. I'm currently studying at Gwangju Institute of Science and Technology, where I'm exploring *Generative Models* to re-create the visual world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In the future, I want to create meaningful projects, which help humans be creative with technology.
 
-What else do you need?
+Thanks for reading.
 
 ### Education  
 - M.S. in **Gwangju Institute of Science and Technology**, Gwangju, Korea (2020 ~ Present)
@@ -24,6 +23,6 @@ What else do you need?
   - Generative Model
 - Physics-Based Simulation
 
-### I LOVE MUSIC
+### Hobby
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In my free time, I enjoy ~~listening Music, watching Netflix~~. So, if you are interested in . Please talk to me Later.
