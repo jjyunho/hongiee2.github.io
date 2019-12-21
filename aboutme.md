@@ -8,6 +8,7 @@ Hi, My name is **Hongiee** Kihong Kim. You can call me **Hongiee**. I'm currentl
 
 I enjoy creating meaningful projects, which help humans be creative with technology. In the future, I want to work on projects, such as **media art**, **interactive installations**.
 
+In my free time, I usually ~~listen Music, watch Netflix~~. So, if you are interested in . Please talk to me Later.
 
 ### Education  
 - M.S. in **Gwangju Institute of Science and Technology**, Gwangju, Korea (2020 ~ Present)
@@ -21,7 +22,3 @@ I enjoy creating meaningful projects, which help humans be creative with technol
 - Machine Learning
   - Generative Model
 - Physics-Based Simulation
-
-### Hobby
-
-In my free time, I enjoy ~~listening Music, watching Netflix~~. So, if you are interested in . Please talk to me Later.
