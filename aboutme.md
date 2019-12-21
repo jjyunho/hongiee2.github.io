@@ -4,11 +4,10 @@ title: About me
 subtitle: Machine Learning / Creative Coding
 ---
 
-Hi, My name is Hongiee Kihong Kim. You can call me *Hongiee*. I'm currently studying at Gwangju Institute of Science and Technology, where I'm exploring *Generative Models* to re-create the visual world.
+Hi, My name is **Hongiee** Kihong Kim. You can call me **Hongiee**. I'm currently studying at Gwangju Institute of Science and Technology, where I'm exploring **Generative Models** to re-create the visual world.
 
-In the future, I want to create meaningful projects, which help humans be creative with technology.
+I enjoy creating meaningful projects, which help humans be creative with technology. In the future, I want to work on projects, such as **media art**, **interactive installations**.
 
-Thanks for reading.
 
 ### Education  
 - M.S. in **Gwangju Institute of Science and Technology**, Gwangju, Korea (2020 ~ Present)
