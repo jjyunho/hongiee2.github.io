@@ -10,6 +10,7 @@ I enjoy creating meaningful projects, which help humans be creative with technol
 
 In my free time, I usually ~~listen Music, watch Netflix~~. So, if you are interested in . Please talk to me Later.
 
+
 ### Education  
 - M.S. in **Gwangju Institute of Science and Technology**, Gwangju, Korea (2020 ~ Present)
   - Cognition & Intelligence Lab
@@ -17,8 +18,18 @@ In my free time, I usually ~~listen Music, watch Netflix~~. So, if you are inter
   - Major in **Computer Engineering**
   - Major in **Entertainment Software**
 
-### Research Interests  
 
+### Research Interests  
 - Machine Learning
+  - Neural Style Transfer
   - Generative Model
-- Physics-Based Simulation
+  - Creative Adversarial Networks  
+
+- Computer Graphics
+  - Generative Art
+  - Physics-Based Simulation
+
+
+### Tools
+- GLSL
+- openFrameworks
